@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s32d9dc45b3841d1a7c4024164bfcbad",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblSearchButton",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dbcd173602ae44b184410b3e073194e7",
+    "name": "kony.ui.Label",
+    "parent": "flxSearchButton",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "skin": "sd986e666e2f4ef687f711e1c605e491"
+        },
+        "b2": {
+            "skin": "s1880db74ac3409fb9c40a3c866ec823"
+        },
+        "b3": {
+            "skin": "s1880db74ac3409fb9c40a3c866ec823"
+        },
+        "b4": {
+            "skin": "sd986e666e2f4ef687f711e1c605e491"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

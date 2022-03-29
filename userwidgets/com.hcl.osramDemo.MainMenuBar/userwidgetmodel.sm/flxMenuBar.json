@@ -1,0 +1,93 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": "50"
+    },
+    "_skin_": "s4b38a3986f542c4b09f8da233d6b310",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "menuBarItemTools",
+        "menuBarItemApplications",
+        "menuBarItemProducts"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMenuBar",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e73e6db056b2486da7d2d24b32d1eef7",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "MainMenuBar",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "isVisible": false
+        },
+        "b4": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "layoutType": 3,
+            "right": {
+                "type": "string",
+                "value": "6%"
+            },
+            "width": {
+                "type": "string",
+                "value": "400dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "reverselayoutdirection": true,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
