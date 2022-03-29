@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "140dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -23,36 +23,26 @@
         0
     ],
     "_skin_": "s3e286d4b0a940899f3a0d0efd74bb17",
-    "_src_": "image_647103_vw_iaa_2015_frankfurt.jpeg",
+    "_src_": "teaser1.jpg",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "235dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "id": "imgLeft",
+    "id": "imgTeaser",
     "imagescalemode": 0,
     "info": null,
-    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a46dbcb96ef34d89bf39da0372da0396",
+    "kuid": "jb97b6ceddf94976b50c092895f66f15",
     "name": "kony.ui.Image2",
-    "parent": "flxPictureLeft",
-    "pf": "frmMain",
-    "responsiveData": {
-        "b1": {},
-        "b4": {
-            "left": {
-                "type": "string",
-                "value": "0.00%"
-            }
-        }
-    },
+    "parent": "Teaser",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

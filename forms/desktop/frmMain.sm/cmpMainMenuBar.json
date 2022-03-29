@@ -51,7 +51,7 @@
         "value": ""
     },
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "flxMain",
+    "parent": "frmMain",
     "pf": "frmMain",
     "responsiveData": {
         "b2": {

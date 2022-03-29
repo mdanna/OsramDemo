@@ -1,12 +1,12 @@
 {
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "110dp"
     },
     "_left_": {
         "type": "string",
-        "value": ""
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,53 +25,35 @@
     "_skin_": "s4b38a3986f542c4b09f8da233d6b310",
     "_top_": {
         "type": "string",
-        "value": "20dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "1000dp"
+        "value": "30%"
     },
     "allboxes": [],
-    "autogrowmode": 1,
+    "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "children": [
-        "flxPictureLeft",
-        "flxPictureRight"
+        "flxCircle"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxPictureContainer",
+    "id": "flxCircleContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "aa41f6ecfe92447593d59efcbb6da66a",
-    "layouttype": 3,
+    "kuid": "d6c79045b70241a0ac591d5e58d4ca2b",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmMain",
+    "parent": "flxContactLeft",
     "pf": "frmMain",
     "responsiveData": {
-        "b1": {
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        },
-        "b2": {
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        },
         "b3": {
-            "layoutType": 4,
             "width": {
                 "type": "string",
-                "value": "100%"
+                "value": "90dp"
             }
         }
     },

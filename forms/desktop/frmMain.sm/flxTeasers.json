@@ -1,0 +1,122 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "380dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbd1d1d0217f45faba7e8a93ef911408",
+    "_top_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "teaser1",
+        "teaser2",
+        "teaser3",
+        "teaser4"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "flxTeasers",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb8ea4710edc46d9b38d8a8c8a1b6f01",
+    "layouttype": 3,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmMain",
+    "pf": "frmMain",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "94%"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "94%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "94%"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "1000dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

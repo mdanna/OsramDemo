@@ -1,12 +1,8 @@
 {
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
         "type": "string",
-        "value": ""
+        "value": "56dp"
     },
     "_margin_": [
         0,
@@ -22,59 +18,41 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s4b38a3986f542c4b09f8da233d6b310",
+    "_skin_": "s998bc76a4ba47d583821e2d7ddf8631",
     "_top_": {
         "type": "string",
-        "value": "20dp"
+        "value": "30dp"
     },
     "_width_": {
         "type": "string",
-        "value": "1000dp"
+        "value": "56dp"
     },
     "allboxes": [],
-    "autogrowmode": 1,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
         "value": "50%"
     },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "flxPictureLeft",
-        "flxPictureRight"
+        "lblContactIcon"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxPictureContainer",
+    "id": "flxCircle",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "aa41f6ecfe92447593d59efcbb6da66a",
-    "layouttype": 3,
+    "kuid": "g70097c85f264784bc708ebcfb2d4fa7",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmMain",
+    "parent": "flxCircleContainer",
     "pf": "frmMain",
-    "responsiveData": {
-        "b1": {
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        },
-        "b2": {
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        },
-        "b3": {
-            "layoutType": 4,
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        }
-    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

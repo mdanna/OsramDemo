@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "380dp"
     },
     "_left_": {
         "type": "string",
@@ -31,57 +31,26 @@
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "235dp"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "number",
-        "value": ""
-    },
     "containerweight": 0,
-    "data": {},
-    "id": "cmpHeaderMenu",
+    "data": {
+        "title": "OSRAM Xchange"
+    },
+    "id": "teaser1",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e5fb1a2d3d044229ac56d4e2bc39e96f",
+    "kuid": "a99ed37110b4480a93b2edf93ef40156",
     "masterType": 1,
-    "maxwidth": {
-        "type": "number",
-        "value": ""
-    },
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "frmMain",
+    "parent": "flxTeasers",
     "pf": "frmMain",
-    "responsiveData": {
-        "b1": {
-            "isVisible": false
-        },
-        "b2": {
-            "isVisible": false
-        },
-        "b3": {
-            "isVisible": false
-        },
-        "b4": {
-            "centerX": {
-                "type": "string",
-                "value": "50%"
-            },
-            "maxWidth": {
-                "type": "string",
-                "value": ""
-            },
-            "width": {
-                "type": "string",
-                "value": "1000dp"
-            }
-        }
-    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "sourceUserWidget": "g6f6ea95ac6f4b98a72a758834536ec7",
+    "sourceUserWidget": "c9e6aa499bb4449b87c5c56c6f211e37",
     "wType": "UserWidgetInstance",
     "zindex": 1
 }

@@ -43,7 +43,7 @@
     "kuid": "fda141f5f9044a5eac39f27380ffd4ff",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "flxMain",
+    "parent": "frmMain",
     "pf": "frmMain",
     "responsiveData": {
         "b1": {
